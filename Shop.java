@@ -17,7 +17,7 @@ public class Shop{
         items[8] = new Item("Vintage Pigeon Tshirt"         , 90234, 69.42);
         items[9] = new Item("Duck named Pigeon"            , 10723, 500.99);
 
-        System.out.println("adjaldjsaldjasl dhadad andsad nsla daldhKdhAKSJd");
+        System.out.println("hey your kinda cool lol ;)");
 
         // System.out.println("Welcome to the powne zone...prepare to get powned");
         // System.out.println("Here are all the items we sell. ");
